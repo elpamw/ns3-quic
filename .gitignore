@@ -1,0 +1,8 @@
+**/__pycache__/**
+
+.lock-waf_*_build
+.waf*
+
+build/
+/.cproject
+/.project
